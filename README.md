@@ -24,6 +24,6 @@ Open `http://localhost:3000`.
 
 ## Firebase setup for waitlist
 
-Update `/home/runner/work/landing/landing/public/config.js` with your Firebase web app configuration.
+Update `/home/runner/work/landing/landing/public/config.js` with your Firebase web app configuration (projectId should remain `landing-def`).
 
 Waitlist records are written to Firestore collection: `waitlist`.

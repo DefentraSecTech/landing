@@ -1,7 +1,7 @@
 window.__FIREBASE_CONFIG__ = {
   apiKey: '',
   authDomain: '',
-  projectId: '',
+  projectId: 'landing-def',
   storageBucket: '',
   messagingSenderId: '',
   appId: '',
